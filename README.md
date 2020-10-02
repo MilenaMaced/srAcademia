@@ -1,6 +1,4 @@
 # srAcademia
-
-# Academia
 ## Time:
 - Milena
 - Nathalia 
